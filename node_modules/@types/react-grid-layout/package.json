@@ -1,0 +1,45 @@
+{
+    "name": "@types/react-grid-layout",
+    "version": "0.16.7",
+    "description": "TypeScript definitions for react-grid-layout",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "Andrew Birkholz",
+            "url": "https://github.com/abirkholz",
+            "githubUsername": "abirkholz"
+        },
+        {
+            "name": "Ali Taheri",
+            "url": "https://github.com/alitaheri",
+            "githubUsername": "alitaheri"
+        },
+        {
+            "name": "Zheyang Song",
+            "url": "https://github.com/ZheyangSong",
+            "githubUsername": "ZheyangSong"
+        },
+        {
+            "name": "Andrew Hathaway",
+            "url": "https://github.com/andrewhathaway",
+            "githubUsername": "andrewhathaway"
+        },
+        {
+            "name": "Manav Mishra",
+            "url": "https://github.com/manav-m",
+            "githubUsername": "manav-m"
+        }
+    ],
+    "main": "",
+    "types": "index",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+    },
+    "scripts": {},
+    "dependencies": {
+        "@types/react": "*"
+    },
+    "typesPublisherContentHash": "972ad1faeb097e92be7d6efbe76ef8f5f15ff065cef290ea43e21a9c3489d97f",
+    "typeScriptVersion": "2.8"
+}

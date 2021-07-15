@@ -1,0 +1,12 @@
+/config/
+/demo/
+/dist/
+/docs/
+/js/
+/tasks/
+/test/
+/.gitattributes
+/bower.json
+/.travis.yml
+/contributing.md
+/gulpfile.js
